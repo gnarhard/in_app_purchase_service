@@ -1,0 +1,1 @@
+A service for managing in-app purchases in a Flutter app.
