@@ -1,4 +1,4 @@
-import 'dart:async';
+import 'dart:async' show Future, StreamSubscription;
 
 import 'package:in_app_purchase/in_app_purchase.dart';
 
